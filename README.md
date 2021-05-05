@@ -1,7 +1,5 @@
 ## Redux Cart
-An example to use Redux for the first time
-
-### A Programming Hero Initiative
+## redux basic
 
 "# Redux-cart" 
 "# Redux-cart" 
